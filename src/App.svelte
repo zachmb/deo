@@ -5,7 +5,7 @@
 
   <p>The most comprehensive social media marketing solution; the future of UGC.</p>
 
-  <p>Currently being deployed for select clients. Soon, we'll launch publically.</p>
+  <p>Currently being deployed for select clients. Soon, we'll launch publicly.</p>
 
   <p>
     In the mean time, follow our <a href="https://www.linkedin.com/company/deoso/" target="_blank" rel="noreferrer">LinkedIn</a>.
