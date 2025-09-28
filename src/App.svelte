@@ -3,7 +3,7 @@
 
   <h1>Stealth Mode.</h1>
 
-  <p>This is the most comprehensive social media marketing solution: the future of UGC.</p>
+  <p>The full-stack social media marketing platform.</p>
 
   <p>Currently being deployed for select clients. Soon, we'll launch publicly.</p>
 
