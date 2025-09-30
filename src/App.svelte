@@ -4,9 +4,8 @@
   <h1>Stealth Mode</h1>
 
   <p class="tagline">
-    Cut your $tack. <br>
     Do it all in Deo. <br>
-    Save time and money with the easiest, most complete all-in-one social media marketing platform.
+    The full-stack social media marketing platform.
   </p>
 
   <p class="status">
