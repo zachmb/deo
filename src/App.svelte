@@ -5,7 +5,7 @@
 
   <p class="tagline">
     Do it all in Deo. <br>
-    The full-stack social media marketing platform.
+    The full-stack AI (social media) marketing platform.
   </p>
 
   <p class="status">
