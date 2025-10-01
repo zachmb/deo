@@ -4,8 +4,13 @@
   <h1>Stealth Mode</h1>
 
   <p class="tagline">
-    Do it all in Deo. <br>
-    The full-stack AI (social media) marketing OS.
+    <a href="https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf" target="_blank" rel="noreferrer">MIT:</a> "High Adoption, Low Transformation" -- AI pilots fail 95% of the time.<br>
+    Most AI tools enhance individual productivity, but fail to drive P&L change.<br>
+  </p>
+
+  <p class="tagline">
+    <strong>Deo</strong> is the AI SMM OS.<br>
+    We keep you in the top 5% by doing what actually works.
   </p>
 
   <p class="status">
