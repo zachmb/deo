@@ -9,7 +9,7 @@
   </p>
 
   <p class="tagline">
-    <strong>Deo</strong> is the AI SMM OS.<br>
+    <strong>Deo</strong> is the full-stack AI SMM OS.<br>
     We keep you in the top 5% by doing what actually works.
   </p>
 
